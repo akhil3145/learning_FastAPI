@@ -1,32 +1,47 @@
-{
-  "id": 1,
-  "name": "Akhil Sharma",
-  "age": 22,
-  "gender": "Male",
-  "blood_group": "O+",
-  "phone": "+91-9876543210",
-  "email": "akhil@example.com",
-  "address": {
-    "city": "Kanpur",
-    "state": "Uttar Pradesh",
-    "country": "India"
+[
+  {
+    "id": 1,
+    "name": "Aarav Sharma",
+    "city": "Delhi",
+    "age": 24,
+    "gender": "Male",
+    "height": 175,
+    "weight": 70
   },
-  "medical_history": [
-    "Diabetes",
-    "Hypertension"
-  ],
-  "allergies": [
-    "Penicillin"
-  ],
-  "current_medications": [
-    "Metformin",
-    "Amlodipine"
-  ],
-  "emergency_contact": {
-    "name": "Rohit Sharma",
-    "relation": "Brother",
-    "phone": "+91-9123456780"
+  {
+    "id": 2,
+    "name": "Priya Verma",
+    "city": "Mumbai",
+    "age": 29,
+    "gender": "Female",
+    "height": 162,
+    "weight": 55
   },
-  "last_visit": "2026-05-20",
-  "doctor_assigned": "Dr. Raj Mehta"
-}
+  {
+    "id": 3,
+    "name": "Rahul Singh",
+    "city": "Lucknow",
+    "age": 31,
+    "gender": "Male",
+    "height": 180,
+    "weight": 78
+  },
+  {
+    "id": 4,
+    "name": "Sneha Patel",
+    "city": "Ahmedabad",
+    "age": 26,
+    "gender": "Female",
+    "height": 158,
+    "weight": 52
+  },
+  {
+    "id": 5,
+    "name": "Karan Mehta",
+    "city": "Bangalore",
+    "age": 35,
+    "gender": "Male",
+    "height": 172,
+    "weight": 74
+  }
+]
