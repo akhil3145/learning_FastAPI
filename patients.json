@@ -1,0 +1,32 @@
+{
+  "id": 1,
+  "name": "Akhil Sharma",
+  "age": 22,
+  "gender": "Male",
+  "blood_group": "O+",
+  "phone": "+91-9876543210",
+  "email": "akhil@example.com",
+  "address": {
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "country": "India"
+  },
+  "medical_history": [
+    "Diabetes",
+    "Hypertension"
+  ],
+  "allergies": [
+    "Penicillin"
+  ],
+  "current_medications": [
+    "Metformin",
+    "Amlodipine"
+  ],
+  "emergency_contact": {
+    "name": "Rohit Sharma",
+    "relation": "Brother",
+    "phone": "+91-9123456780"
+  },
+  "last_visit": "2026-05-20",
+  "doctor_assigned": "Dr. Raj Mehta"
+}
